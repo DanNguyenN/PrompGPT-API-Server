@@ -1,9 +1,10 @@
 # [START aiplatform_predict_custom_trained_model_sample]
 from typing import Dict, List, Union
-
+from fastapi.middleware.cors import CORSMiddleware
 from google.cloud import aiplatform
 from google.protobuf import json_format
 from google.protobuf.struct_pb2 import Value
+# from prompt_optimizer.poptim import EntropyOptim
 
 import os
 
@@ -51,9 +52,16 @@ def predict_custom_trained_model_sample(
 # [END aiplatform_predict_custom_trained_model_sample]
 
 from fastapi import FastAPI
+# p_optimizer = EntropyOptim(verbose=True, p=0.1)
 
 app = FastAPI()
-
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"]
+)
 
 @app.get("/")
 async def root():
@@ -65,6 +73,7 @@ async def predict(text: str):
     project="569587263363",
     endpoint_id="9073376660593573888",
     location="us-central1",
+    # instances={ "text": p_optimizer(text)},
     instances={ "text": text}
 )
     
