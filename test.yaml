@@ -1,0 +1,552 @@
+-
+ q: What is ChatGPT? How can you talk like a human
+ a: You will engage in a captivating conversation with ChatGPT to uncover the remarkable ability it possesses to emulate human-like dialogue. Your curiosity drives you to understand the underlying mechanisms and techniques employed by ChatGPT to generate responses that are so close to human speech. Explore the nuances of natural language processing and the intricacies of training data, models, and algorithms that contribute to ChatGPT's human-like conversational prowess.
+-
+ q: Tell me how the airplane work. Commercial airliner and its maintainance
+ a: You are an aspiring aviation enthusiast determined to gain a comprehensive understanding of commercial airliners and the critical aspect of their maintenance. Embark on a journey of exploration into the realm of commercial aviation as you unravel the intricacies of these marvels of engineering. Dive deep into the world of airliner design, systems, and operations, and explore the indispensable role of maintenance in ensuring safe and efficient flights. From aircraft components and inspections to maintenance procedures and regulatory standards, you seek to grasp the holistic picture of how commercial airliners are operated and meticulously maintained to ensure passenger safety and operational excellence.
+-
+ q: Write me a mobile app cooking software. Platform is IOS
+ a: As a passionate cook, you're looking to develop a mobile app cooking software that will revolutionize the way people approach cooking. The app should be user-friendly, intuitive, and provide a wide range of features to assist home cooks in their culinary adventures. It should allow users to browse a vast collection of recipes, create personalized recipe collections, and offer various search options based on ingredients, dietary restrictions, or cuisines. The app should also include step-by-step cooking instructions, timers, and the ability to adjust serving sizes. Additionally, it should provide nutritional information for each recipe and offer features like meal planning, a shopping list generator, and a pantry inventory manager. Your goal is to create an app that inspires creativity, encourages exploration, and makes cooking a delightful and effortless experience.
+-
+ q: My cat keep scratching it belly. It don't scratch a lot, and it's recent. No sign of irritation, and the food are the same
+ a: As a concerned cat owner, you've noticed that your feline companion has recently started scratching its belly occasionally. There are no visible signs of irritation, and your cat's diet remains consistent. You're seeking expert advice to understand if this behavior is within the normal range for cats and if any potential underlying causes need to be addressed. Your main objective is to ensure the well-being and health of your beloved pet.
+-
+ q: History of how Rome ended
+ a: You are intrigued by the fascinating era surrounding the end of the Roman Empire and wish to explore the factors and events that led to its decline and eventual fall. Starting from the crisis of the third century, you want to understand the internal and external challenges that weakened Rome, including political instability, economic troubles, and invasions. Your goal is to gain insights into this pivotal period of history, uncover the consequences of Rome's collapse, and explore the transition from classical antiquity to the medieval world.
+-
+ q: Best way to prepare for college level Economics exam about supply and demand, using flashcards learning method
+ a: As a dedicated college student preparing for a challenging Economics exam at the college level, you want expert guidance on the best strategies to master the topic of supply and demand. You aim to develop a deep understanding of this fundamental concept and its practical applications. Specifically, you are interested in utilizing flashcards as a learning method to enhance your retention and comprehension. Your ultimate goal is to confidently grasp the nuances of supply and demand and excel in your exam.
+-
+ q: I got an error 503 on Wordpress webpage, after updated two days ago
+ a: As the owner of a WordPress website, you recently encountered an error 503, resulting in temporary unavailability of your webpage. The error occurred shortly after you made updates to your website just two days ago. Seeking expert assistance, your primary objective is to identify the cause of the error and implement effective measures to resolve it, ensuring uninterrupted access to your website for your visitors. By addressing the error and restoring your website's functionality, you aim to provide a seamless browsing experience and maintain the reputation of your online presence.
+-
+ q: What is the difference between Cloud Run and Cloud Function for a personal portfolio webpage
+ a: As a web developer creating your personal portfolio webpage, you are seeking expert guidance to determine whether to use Google Cloud Run or Google Cloud Functions for your project. Your goal is to understand the differences between these two services and select the most suitable option for deploying and running your portfolio website. You are particularly interested in factors such as ease of deployment, scalability, cost-effectiveness, and integration with other cloud services. By making an informed decision, you aim to showcase your work effectively and ensure optimal performance for your personal portfolio webpage.
+-
+ q: Why did Democratic party use to be conservative but now they changed?
+ a: You are intrigued by the evolution of the Democratic Party in the United States, particularly the shift from its historical conservative positions to its current ideological landscape. Seeking expert insights, you want to understand the reasons behind this transformation and the factors that influenced the Democratic Party's ideological shift over time. From its early conservative roots to its present progressive stance, you aim to explore the historical context, key events, influential figures, and societal changes that contributed to this change. By examining the reasons for the Democratic Party's ideological shift, you aspire to gain a comprehensive understanding of the party's evolution and its impact on American politics.
+-
+ q: Who is Barack Obama. How does he qualify to be President of the United States?
+ a: You are curious about the qualifications and requirements that enabled Barack Obama to become the President of the United States. Seeking expert insights, you aim to understand the criteria and prerequisites for an individual to qualify for the presidency. Specifically, you are interested in exploring how Barack Obama met these qualifications and overcame any potential challenges on his path to the presidency. By examining the constitutional requirements, political background, and experiences of Barack Obama, you aspire to gain a comprehensive understanding of the factors that allowed him to ascend to the highest office in the United States.
+-
+ q: Best Vietnamese banh mi recipes. Vegan option
+ a: As a vegan enthusiast eager to explore the vibrant world of plant-based cuisine, you are specifically interested in discovering the best vegan banh mi recipes. You seek expert guidance to create a delicious vegan version of this iconic Vietnamese sandwich. From the choice of plant-based proteins to the assortment of flavorful fillings and condiments, you aim to uncover the key components and techniques that will allow you to craft an authentic and satisfying vegan banh mi. By exploring the best vegan banh mi recipes, you aspire to elevate your culinary skills and indulge in a cruelty-free, plant-powered delight that captures the essence of this beloved dish.
+-
+ q: best pho recipes. 
+ a: You will act as an expert chef, providing me with the best Pho recipes. In a detailed response, share your favorite Pho recipe, including all the necessary ingredients and step-by-step instructions. Additionally, explain the key techniques and tips for achieving a delicious and authentic Pho flavor. Feel free to share any variations or personal touches you recommend to enhance the dish.
+-
+ q: what are some high potassium foods
+ a: You will act as a knowledgeable nutritionist, providing me with a list of high potassium foods. In a detailed response, share a variety of foods that are rich in potassium, along with their approximate potassium content per serving. Additionally, explain the importance of potassium in the diet, its role in maintaining overall health, and any specific benefits it offers. Feel free to include tips on incorporating these foods into a balanced diet for optimal potassium intake.
+-
+ q: how do airlines stay in the air? 
+ a: You will act as an aviation expert, explaining how airlines stay in the air. In a detailed response, describe the key principles and mechanisms that allow airplanes to achieve and maintain flight. Begin by discussing the concept of lift and how it is generated, highlighting the role of the wings and the Bernoulli's principle. Elaborate on the function of engines and their contribution to propulsion. Additionally, touch upon other factors such as aerodynamics, control surfaces, and the role of pilots in maneuvering the aircraft. Feel free to provide examples and real-world analogies to enhance understanding.
+-
+ q: why does the stock market fall on wednesdays? 
+ a: You will act as a knowledgeable financial analyst, explaining the potential reasons behind stock market declines on Wednesdays. In a detailed response, analyze the factors and dynamics that can contribute to stock market falls specifically on Wednesdays. Explore various possibilities such as market trends, investor behavior, economic indicators, and external events that may influence Wednesday's stock market performance. Additionally, discuss any historical patterns or statistical evidence that suggest a correlation between stock market declines and Wednesdays, if applicable.
+-
+ q: should i apply to university of texas for a computer science program
+ a: You will act as a knowledgeable advisor, providing guidance on whether you should apply to the University of Texas for a computer science program. In a detailed response, consider various factors to help you make an informed decision. Begin by discussing the reputation and quality of the University of Texas computer science program, highlighting any notable achievements or strengths. Explore the curriculum, faculty expertise, research opportunities, and industry connections offered by the university. Additionally, consider factors such as location, cost, campus culture, and any specific preferences you may have. Provide insights and recommendations based on these considerations to help you determine if applying to the University of Texas for a computer science program aligns with your academic and personal goals.
+-
+ q: find me information on the scholarship package at harvard 
+ a: You will act as a resourceful researcher, providing information on the scholarship package at Harvard University. In a detailed response, explore the various scholarships and financial aid opportunities available at Harvard. Discuss the different types of scholarships, grants, and fellowships offered by the university, along with their eligibility criteria and application process. Provide insights into the financial assistance provided, including tuition coverage, living expenses, and other benefits. Additionally, highlight any notable Harvard-specific scholarships or programs that may be of interest. Feel free to include any relevant deadlines and contact information for further inquiries.
+-
+ q: how do i resize a project for a television. rgb colors. 
+ a: You will act as a knowledgeable graphic designer, providing guidance on resizing a project for a television while considering RGB colors. In a detailed response, explain the steps to resize your project effectively for television display, ensuring optimal color reproduction using the RGB color model. Begin by discussing the resolution requirements for television, such as the commonly used Full HD (1920x1080) or 4K Ultra HD (3840x2160). Provide instructions on how to adjust the project dimensions and maintain the aspect ratio to avoid distortion. Discuss the importance of color spaces and RGB color profiles for accurate color representation on televisions. Explain how to ensure consistent and vibrant RGB colors during the resizing process, including any necessary color conversions or adjustments.
+-
+ q: why do dogs stop barking when you stand still 
+ a: You will act as a knowledgeable animal behaviorist, explaining why dogs may stop barking when you stand still. In a detailed response, discuss the potential reasons behind this behavior. Explore the various factors that can influence a dog's barking, such as territorial instincts, perceived threats, fear, or social cues. Explain how standing still may signal non-threatening behavior to the dog, potentially reducing their need to bark. Additionally, touch upon the importance of body language, vocal tone, and overall demeanor in communicating with dogs and influencing their behavior.
+-
+ q: which credit card offers the best airline points for singapore
+ a: You will act as a knowledgeable financial advisor, providing information on credit cards that offer the best airline points for flights to and from Singapore. In a detailed response, explore different credit cards and their associated rewards programs that offer favorable airline points for travel to Singapore. Consider factors such as the specific airlines partnered with each credit card, the earning rate of airline points, redemption options, annual fees, and any additional perks or benefits offered. Highlight any notable features or promotions that make these credit cards stand out in terms of airline rewards for Singapore flights.
+-
+ q: i want a list of ingredients to make authentic Guangzhou wontons 
+ a: You will act as an experienced chef, providing a list of ingredients needed to make authentic Guangzhou wontons. In a detailed response, share the essential ingredients required for preparing these traditional Chinese dumplings. List the ingredients for both the wonton filling and the wonton wrappers separately, along with any optional ingredients that can enhance the flavor. If there are specific seasonings or sauces typically served with Guangzhou wontons, please include them as well. Additionally, you can provide any tips or recommendations for sourcing authentic ingredients or substitutes if certain items are not readily available.
+-
+ q: i want to migrate a wordpress website with a domain name service onto a new host. the new host should still point to the same domain name while i prototype. where do i start. 
+ a: You will act as a knowledgeable web developer, providing guidance on migrating a WordPress website with a domain name service to a new host while maintaining the same domain name. In a detailed response, explain the step-by-step process to successfully migrate your website without disrupting its accessibility. Begin by discussing the preparation phase, including backing up your website files and database. Then, guide through the steps of setting up the new host, transferring the website files and database, and configuring the domain name to point to the new host. Provide instructions for testing the migrated website on the new host while keeping the original website intact. Additionally, offer tips on resolving common migration issues and ensuring a smooth transition.
+ -
+ q: i want to find a dress shirt color that goes really well with my red bow tie. we are attending a college reunion. my partner will dress in a black gown. 
+ a: You will act as a skilled fashion advisor, providing guidance on finding a dress shirt color that pairs well with a red bow tie for a college reunion. In a detailed response, suggest dress shirt colors that complement the red bow tie and create a stylish ensemble. Take into consideration the partner's black gown to ensure coordination. Explain the principles of color harmony and contrast to help you make a confident choice. Consider factors such as personal style, complexion, and the desired overall look for the occasion. Additionally, you can provide styling tips to enhance the outfit's aesthetic appeal.
+-
+ q: i need a new product that will sell well with a business venture. what are the steps to finding a good product. 
+ a: You will act as a knowledgeable business consultant, providing guidance on finding a new product that has the potential to sell well with a business venture. In a detailed response, explain the step-by-step process to identify and evaluate potential product opportunities. Begin by discussing market research and identifying target audiences, highlighting the importance of understanding consumer needs and preferences. Then, guide through the steps of brainstorming product ideas, conducting competitive analysis, validating demand, and assessing the feasibility and profitability of the chosen product. Offer tips on leveraging trends, differentiating the product, and conducting market testing to increase the chances of success.
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
+-
+ q:
+ a:
