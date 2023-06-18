@@ -20,9 +20,11 @@ import collections
 from bson import json_util
 
 from pymongo.mongo_client import MongoClient
-uri = "mongodb+srv://ndan0112:mqbgMMhH1i2lyD2t@promptgpt.zkajoet.mongodb.net/?retryWrites=true&w=majority"
+uri = "mongodb+srv://promptgpt.zkajoet.mongodb.net/?authSource=%24external&authMechanism=MONGODB-X509&retryWrites=true&w=majority"
 # Create a new client and connect to the server
-client = MongoClient(uri)
+client = MongoClient(uri,
+                     tls = True,
+                     tlsCertificateKeyFile = "/app/MongoDB.pem")
 # Init the collection
 db = client['predictions']
 collection = db['predictions_collection']
@@ -30,16 +32,9 @@ collection = db['predictions_collection']
 project_id = "aerobic-gantry-387923"
 topic_id = "promptgpt"
 
-receive_topic_id = "promptgpt-result"
-
 publisher = pubsub_v1.PublisherClient()
-subscriber = pubsub_v1.SubscriberClient()
 topic_path = publisher.topic_path(project_id, topic_id)
 
-subscription_path = "projects/aerobic-gantry-387923/subscriptions/promptgpt-result-sub"
-receivePRequest = pubsub_v1.types.PullRequest(subscription=subscription_path, max_messages=1000)
-
-receive_topic_path = subscriber.topic_path(project_id, receive_topic_id)
 
 app = FastAPI()
 

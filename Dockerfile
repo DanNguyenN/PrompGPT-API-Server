@@ -6,6 +6,8 @@ COPY ./app /app
 
 COPY ./very_important_key.json /app/very_important_key.json
 
+COPY ./MongoDB.pem /app/MongoDB.pem
+
 ENV GOOGLE_APPLICATION_CREDENTIALS=/app/very_important_key.json
 
 # 

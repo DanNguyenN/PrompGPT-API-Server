@@ -1,6 +1,10 @@
 functions-framework==3.*
 google-cloud
 google-cloud-aiplatform
+google-cloud-pubsub
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-logging
 typing
 pydantic>=1.8.0,<2.0.0
 pymongo[tls,srv]
