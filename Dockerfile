@@ -22,4 +22,4 @@ ENV UVICORN_WORKERS=1
 # Set the number of Gunicorn workers to 1
 ENV WEB_CONCURRENCY=1
 
-CMD ["python", "app/main.py"]
+CMD ["python", "/app/main.py"]

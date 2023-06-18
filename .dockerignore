@@ -1,3 +1,5 @@
+app/predict.py
+_cloudFunctions/
 __pycache__
 deploy_to_cloud_run.sh
 
